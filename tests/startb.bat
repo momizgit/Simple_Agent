@@ -1,0 +1,1 @@
+start /b "powershell test-connection 8.8.8.8"
